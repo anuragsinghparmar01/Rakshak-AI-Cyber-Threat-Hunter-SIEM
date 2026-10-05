@@ -1,0 +1,6 @@
+{
+  "name": "Rakshak — AI Cyber Threat Hunter & SIEM",
+  "description": "Always Watching, Always Protecting. Enterprise AI Cyber Threat Hunter featuring real-time security monitoring, Wazuh-pattern log normalization, UEBA anomaly detection, explainable AI incident investigation, MITRE ATT&CK mapping, and human-in-the-loop SOAR playbooks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
